@@ -9,9 +9,39 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>testWatch (Notification).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>testWatch.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>watchDemo (Complication).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>watchDemo (Notification).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>watchDemo.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>8465FB221E0BA2B700EC3947</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>84E7DBF81DFE7C9C00EEFDAF</key>
 		<dict>
 			<key>primary</key>
@@ -23,6 +53,11 @@
 			<true/>
 		</dict>
 		<key>84E7DC1C1DFE7C9D00EEFDAF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>84E7DC301DFE7D0100EEFDAF</key>
 		<dict>
 			<key>primary</key>
 			<true/>

@@ -16,6 +16,17 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+
+    NSUserDefaults *user = [[NSUserDefaults alloc] initWithSuiteName:@"group.com.gz.bingo.appwatchDemo"];
+    [user setInteger:3 forKey:@"abc"];
+    [user synchronize];
+   
+    
+    
+//    NSUserDefaults *user2 = [[NSUserDefaults alloc] initWithSuiteName:@"group.com.gz.bingo.appwatchDemo"];
+//    NSInteger dataint = [user2 integerForKey:@"abc"];
+//    
+//    NSLog(@"-----------------------%ld",dataint);
     // Do any additional setup after loading the view, typically from a nib.
 }
 
